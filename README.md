@@ -10,4 +10,5 @@ PASSWORD=YOURPASSWORDEMAIL
 then in each frontend and backend folder run npm install
 
 in Frontend folder run: npm start
+
 in Backend folder run: nodemon index.js
