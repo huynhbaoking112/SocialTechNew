@@ -1,3 +1,4 @@
+Thank you all for taking the time to view my product ❤️
 
 To use, please add the .env file to the backend directory and configure it as follows:
 
